@@ -48,3 +48,24 @@
         // Find out the numbers of seconds elapsed from January 1, 1970 to now.
             console.log(all.getTime())
 
+// Exercises: Level 2
+     
+        // Write a script that prompt the user to enter base and height of the triangle and calculate an area of a triangle (area = 0.5 x b x h).
+        // const baseValue = prompt('Enter the base of a triangle: ');
+        // const heightValue = prompt('Enter the height of a triangle: ');
+        
+        
+        // const areaValue = (baseValue * heightValue) / 2;
+        
+        // console.log(
+        //   `The area of the triangle is ${areaValue}`
+        // );
+
+        // Write a script that prompt the user to enter side a, side b, and side c of the triangle and and calculate the perimeter of triangle (perimeter = a + b + c)
+            // const sideA = prompt('Enter Side A')
+            // const sideB = prompt('Enter Side B')
+            // // const sideC = prompt('Enter Side C')
+
+            // const tong = sideA + sideB
+
+            // console.log(`Ket Qua La: ${tong}`)
