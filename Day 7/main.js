@@ -126,5 +126,15 @@
         // console.log(getSeason(7))
 // Math.max returns its largest argument. Write a function findMax that takes three arguments and returns their maximum with out using Math.max method.
 
-    // khong lam duoc
+    function findMax(a, b, c) {
+  let max = a;
+  if (b > max) {
+    max = b;
+  }
+  if (c > max) {
+    max = c;
+  }
+  return max;
+}
+
     
