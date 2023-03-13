@@ -83,6 +83,32 @@
 
             // console.log(handler)
 // Use findIndex to find the position of Russia if it doesn't exist in the array you will get -1.
-            const handler2 = countries.findIndex(ktr => ktr == 'Russia')
+        //     const handler2 = countries.findIndex(ktr => ktr == 'Russia')
 
-            console.log(handler2)
+        //     console.log(handler2)
+
+
+        var grades = [
+                {name: 'John', grade: 8, sex: 'M'},
+                {name: 'Sarah', grade: 12, sex: 'F'},
+                {name: 'Bob', grade: 16, sex: 'M'},
+                {name: 'Johnny', grade: 2, sex: 'M'},
+                {name: 'Ethan', grade: 4, sex: 'M'},
+                {name: 'Paula', grade: 18, sex: 'F'},
+                {name: 'Donald', grade: 5, sex: 'M'},
+                {name: 'Jennifer', grade: 13, sex: 'F'},
+                {name: 'Courtney', grade: 15, sex: 'F'},
+                {name: 'Jane', grade: 9, sex: 'F'}
+            ]
+            
+            
+        //     Tìm thứ hạng trung bình của cả lớp
+        //     Tìm thứ hạng trung bình của nam trong lớp 
+        //     Tìm thứ hạng trung bình của Nữ trong lớp 
+        //     Tìm thứ hạng cao nhất của Nam trong lớp 
+        //     Tìm thứ hạng cao nhất của Nữ trong lớp
+        //     Tìm thứ hạng thấp nhất của Nam trong lớp 
+        //     Tìm thứ hạng thấp nhất của Nữ trong lớp 
+        //     Tìm thứ hạng cao nhất của cả lớp 
+        //     Tìm thứ hạng thấp nhất của cả lớp 
+            
